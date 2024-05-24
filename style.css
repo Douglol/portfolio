@@ -90,3 +90,16 @@ footer
 {
     color: rgb(78, 78, 199);
 }
+
+@media screen and (max-width: 768px)
+{
+    header
+    {
+        margin-bottom: 50px;
+    }
+
+    .print
+    {
+        width: 350px;
+    }
+}
