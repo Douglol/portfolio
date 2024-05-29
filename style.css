@@ -67,12 +67,18 @@ a
 {
     margin-top: 20px;
     border: solid white 2px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .print
 {
     width: 700px;
+    border-radius: 20px;
+}
+
+.ultprint
+{
+    margin-bottom: 12px;
 }
 
 footer
