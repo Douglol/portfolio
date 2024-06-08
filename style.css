@@ -97,6 +97,11 @@ footer
     color: rgb(78, 78, 199);
 }
 
+.power
+{
+    cursor:no-drop;
+}
+
 @media screen and (max-width: 768px)
 {
     header
