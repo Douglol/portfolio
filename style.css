@@ -28,7 +28,7 @@ h2, h3, p
 
 h1
 {
-    color: rgb(78, 78, 199);
+    color: rgb(221, 151, 0);
     font-family: "Ubuntu", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -84,7 +84,7 @@ a
 footer
 {
     margin-top: 100px;
-    height: 80px;
+    height: 170%;
     color: white;
     font-family: "Ubuntu", sans-serif;
     font-weight: 500;
@@ -94,12 +94,7 @@ footer
 
 .pass
 {
-    color: rgb(78, 78, 199);
-}
-
-.power
-{
-    cursor:no-drop;
+    color: rgb(221, 151, 0);
 }
 
 @media screen and (max-width: 768px)
