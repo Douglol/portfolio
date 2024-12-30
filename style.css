@@ -65,7 +65,7 @@ a
 
 .np2
 {
-    margin-top: 20px;
+    margin: 0 0 30px;
     border: solid white 2px;
     border-radius: 20px;
 }
@@ -83,7 +83,6 @@ a
 
 footer
 {
-    margin-top: 100px;
     height: 170%;
     color: white;
     font-family: "Ubuntu", sans-serif;
